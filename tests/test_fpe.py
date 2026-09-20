@@ -1,7 +1,6 @@
 import os
 import tempfile
 import unittest
-
 from app import PolicyDB, analyze_policy, sha256_text
 
 
