@@ -1,5 +1,5 @@
 # ==============================================================
-#  Firewall Policy Engine (FPE) - FPE VERSION: 1.2.1
+#  Firewall Policy Engine (FPE) - FPE VERSION: 1.2
 #  Author: Mohammad Shahazaad Ahmed
 #
 #  LEGAL DISCLAIMER:
